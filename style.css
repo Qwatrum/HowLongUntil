@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body {
+    background-color: #000014;
+    color: white;
+    font-family: 'Anonymous Pro';
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    color: #1972c6;
+}
+
+.header {
+    position: sticky;
+    top: 0;
+    padding: 10px 16px 0px;
+    background: #000014;
+    font-size: larger;
+    display: flex;
+    align-items: flex-start;
+    gap: 100px;
+}
+
+#countdown {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.countdown-box {
+    margin-bottom: 20px;
+    width: 300px;
+    background-color: #221b33;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 5px 9px #008085;
+    text-align: center;
+}
+
+.countdown-box div:first-child {
+    font-size: 2rem;
+    font-family: 'Impact', 'fantasy';
+}
+
+.countdown-box div:last-child {
+    font-size: 1.5rem;
+    font-family: 'Anonymous Pro';
+}
+
+.bottom-text {
+    text-align: center;
+}
