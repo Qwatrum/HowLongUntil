@@ -11,7 +11,7 @@
 ![example](img/image.png)
 
 ## Usage:
-* Visit the website [here]([https://qwatrum.github.io/howlonguntil](https://qwatrum.github.io/HowLongUntil/)
+* Visit the website [here](https://qwatrum.github.io/HowLongUntil/ "https://qwatrum.github.io/HowLongUntil/")
 * Or clone the repo
 
 ## Add your own events:
