@@ -12,7 +12,7 @@
 
 ## Usage:
 * Visit the website [here](https://qwatrum.github.io/HowLongUntil/ "https://qwatrum.github.io/HowLongUntil/")
-* Or clone the repo
+* Or clone the repo and host it
 
 ## Add your own events:
 * In `script.js` look for `const targetEvents = [...];` (line 6)
