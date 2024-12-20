@@ -6,7 +6,7 @@
 ## Features:
 * Many events with countdowns
 * Sorted by time
-* Countdown includes: Date, time, and time until then in hours, minutes and seconds
+* Countdown includes: Date (DDMMYYYY), time, and time until then in hours, minutes and seconds
 * Easy to add your own events
 ![example](img/image.png)
 
