@@ -8,7 +8,7 @@
 * Sorted by time
 * Countdown includes: Date, time, and time until then in hours, minutes and seconds
 * Easy to add your own events
-![example](img/image.png)
+![example](https://cloud-qbpfs4eg8-hack-club-bot.vercel.app/0image.png)
 
 ## Usage:
 * Visit the website [here](https://qwatrum.github.io/how-long-until "qwatrum.github.io/how-long-until")
