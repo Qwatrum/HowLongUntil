@@ -6,13 +6,13 @@
 ## Features:
 * Many events with countdowns
 * Sorted by time
-* Countdown includes: Date, time, and time until then in hours, minutes and seconds
+* Countdown includes: Date (DDMMYYYY), time, and time until then in hours, minutes and seconds
 * Easy to add your own events
 ![example](https://cloud-qbpfs4eg8-hack-club-bot.vercel.app/0image.png)
 
 ## Usage:
-* Visit the website [here](https://qwatrum.github.io/how-long-until "qwatrum.github.io/how-long-until")
-* Or clone the repo
+* Visit the website [here](https://qwatrum.github.io/HowLongUntil/ "https://qwatrum.github.io/HowLongUntil/")
+* Or clone the repo and host it
 
 ## Add your own events:
 * In `script.js` look for `const targetEvents = [...];` (line 6)
